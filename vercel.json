@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://startsimple.cc/ai-tool",
+      "permanent": true
+    }
+  ]
+}
